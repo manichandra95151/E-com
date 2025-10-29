@@ -57,7 +57,8 @@ This project demonstrates a complete **E-Commerce workflow** — fetching produc
 
 3. Create a .env file
    ```bash
-   MONGO_URI=FAKESTORE_API_URL=https://fakestoreapi.com/products?limit=22
+   MONGO_URI=
+   FAKESTORE_API_URL=https://fakestoreapi.com/products?limit=22
    PORT=5000
 
 4. Start backend:
