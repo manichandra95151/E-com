@@ -98,6 +98,10 @@ This project demonstrates a complete **E-Commerce workflow** — fetching produc
    ```bash
    npm start
 
+3. Create a .env file
+   ```bash
+   REACT_APP_BASE_URL=
+
 Frontend runs by default on:
 👉 http://localhost:3000
 
